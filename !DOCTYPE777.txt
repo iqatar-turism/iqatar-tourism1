@@ -836,3 +836,15 @@ python -m http.server
         margin: 0 10px;
     }
 }
+iqatar-tourism/
+├── index.html
+├── doha-skyline.jpg
+├── museum-of-islamic-art.jpg
+├── katara-cultural-village.jpg
+├── falconry.jpg
+├── arabian-coffee.jpg
+├── qatar-national-day.jpg
+├── doha-tribeca-film-festival.jpg
+├── favicon.ico
+├── apple-touch-icon.png
+https://yourusername.github.io/iqatar-tourism/
